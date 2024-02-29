@@ -1,0 +1,16 @@
+div {
+    border: 1px solid red;
+}
+body {
+    height: 100px;
+    background-color: aquamarine;
+    border: 3px solid red;
+}
+
+.social .facebook {
+    font-size: 100px;
+    color: burlywood;
+    font-family: sans-serif;
+    border: 5px solid darkblue;
+    border-radius: 2px;
+}
